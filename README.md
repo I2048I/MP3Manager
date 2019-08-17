@@ -10,4 +10,4 @@
     2.也没有第二点了😜
 
 # 下载地址
-[MP3Manager下载](https://gitee.com/I2048I/MP3Manager/releases/)
+[MP3Manager下载](https://github.com/I2048I/MP3Manager/releases)
